@@ -29,7 +29,7 @@
 - 📰 **Fake News Detection**  
   *Built a machine learning system using TF-IDF and Logistic Regression to classify fake vs real news.*  
 
-- 🏥 **Healthcare Data Analysis (USA Hospitals)**  
+- 🏥 **Healthcare Data Analysis (USA Hospitals)**  [🔗 View Repository](https://github.com/your-username/HealthData-IQ)
   *Analyzed hospital performance and patient feedback to derive insights on quality, satisfaction, and accessibility.*  
 
 ---
