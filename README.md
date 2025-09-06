@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vidya S
 
 🎓 Postgraduate in **Statistics with Data Science**  
-💻 Passionate about ** Machine Learning | Data Analysis | Statistical Modeling **  
+💻 Passionate about **Machine Learning | Data Analysis | Statistical Modeling**  
 
 ---
 
