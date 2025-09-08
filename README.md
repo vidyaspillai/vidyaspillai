@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 🔴 [**Spatio-Temporal Crime Hotspot Identification and Prediction**](https://github.com/vidyaspillai?tab=repositories)
+- 🔴 [**Spatio-Temporal Crime Hotspot Identification and Prediction**](https://github.com/vidyaspillai/Spatio-Temporal-Crime-Hotspot-Identification-and-Prediction)
   *Detecting and forecasting crime hotspots using Getis-Ord Gi* statistics & Prophet model with interactive Plotly visualizations.*  
 
 - 📰 [**Fake News Detection**](https://github.com/vidyaspillai/Fake-News-Detection)
