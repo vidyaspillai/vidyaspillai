@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Connect with Me  
-- 🌐 [LinkedIn](www.linkedin.com/in/vidya-s-pillai)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vidya-s-pillai/)  
 - 📧 Email: *vidyaspillai18@gmail.com*  
 
 ---
